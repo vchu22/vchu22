@@ -1,6 +1,6 @@
 ### <div align="center">Hi 👋 I'm Vanessa, a software engineer who knows about full-stack web development, game and XR dev, and mobile dev.</div>  
 
-- 🤓 I'm an expert in web development who frequently use **React.js/Node.js/PostgreSQL**, but also have experience in game and XR development using **Unity/C#/Blender**, Android Development, and **Figma** for UI design
+- 🤓 I'm an web development expert who frequently use **React.js/Node.js/PostgreSQL**, but also have experience in game and XR development using **Unity/C#/Blender**, Android Development, and **Figma** for UI design
 
 - 🔭 I’m currently working on improving my [portfolio site](https://vchu22.github.io/) and old projects. Here is a preview of my [new portfolio site](https://vchu22-portfolio.vercel.app/) I built with **Next.js** and **Tailwind CSS**😃
 
