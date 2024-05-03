@@ -2,7 +2,7 @@
 
 - 🤓 I'm an web development expert who frequently use **React.js/Node.js/PostgreSQL**, but also have experience in game and XR development using **Unity/C#/Blender**, Android Development, and **Figma** for UI design
 
-- 🧑‍💻💼 Looking for an entry-level software engineering role where I can learn and grow, preferably in web development.
+- 🧑‍💻💼 Looking for an entry-level software engineering role where I can learn and grow, preferably in **Web Development**.
 
 - 🔭 I’m currently working on improving my [portfolio site](https://vchu22.github.io/) and old projects. Here is a preview of my [new portfolio site](https://vchu22-portfolio.vercel.app/) I built with **Next.js** and **Tailwind CSS**😃
 
