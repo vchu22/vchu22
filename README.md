@@ -2,9 +2,9 @@
 
 - 🤓 I'm best at web development using **React.js/Node.js/PostgreSQL**, game and XR development using **Unity/C#/Blender**, and **Figma** for UI design
 
-- 🔭 I’m currently working on improving my [portfolio site](https://vchu22.github.io/) and old projects
+- 🔭 I’m currently working on improving my [portfolio site](https://vchu22.github.io/) and old projects. Here is a preview of my [new portfolio site](https://vchu22-portfolio.vercel.app/) I built with **Next.js** and **Tailwind CSS** 2😃
 
-- 🌱 I’m currently learning new web dev technologies (Next.js, Svelte, Tailwind CSS), Android development using **Kotlin**, **Unreal Engine**, and many other popular technologies I need to learn
+- 🌱 I’m currently learning new web dev technologies (Next.js, Svelte, Tailwind CSS), Android development using **Kotlin**, **Unreal Engine**, and many other popular technologies I need to learn like **Apache Kafka** and **RabbitMQ**
 
 - ❓ Ask me about anything related to NERD stack and Unity dev
 
