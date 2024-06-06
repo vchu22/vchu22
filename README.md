@@ -4,7 +4,7 @@
 
 - 🧑‍💻💼 Looking for an entry-level software engineering role where I can learn and grow, preferably in **Web Development**.
 
-- 🔭 I’m currently working on improving my [portfolio site](https://vchu22.github.io/) and old projects. Here is a preview of my [new portfolio site](https://vchu22.vercel.app/) I built with **Next.js** and **Tailwind CSS**😃
+- 🔭 I’m currently working on my [new portfolio site](https://vchu22.vercel.app/), which is a remake of my [original portfolio site](https://vchu22.github.io/). The new site was built with **Next.js** and **Tailwind CSS**, and I added the blog posts and other contents by building a static-site generator😃
 
 - 🌱 I’m currently learning new web dev technologies (Next.js, Svelte, Tailwind CSS), Android development using **Kotlin**, **Unreal Engine**, and many other popular technologies I need to learn, such as **Apache Kafka** and **RabbitMQ**
 
