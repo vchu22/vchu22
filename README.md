@@ -1,16 +1,16 @@
 ### <div align="center">Hi 👋 I'm Vanessa, a software engineer who knows about full-stack web development, game and XR dev, and mobile dev.</div>  
 
-- 🤓 I'm an web development expert who frequently use **React.js/Node.js/PostgreSQL**, but also have experience in game and XR development using **Unity/C#/Blender**, Android Development, and **Figma** for UI design
+- 🤓 I'm proficient in web development using **React.js/Node.js/PostgreSQL**, but also have experience in game and XR development using **Unity/C#/Blender**, Android Development, and **Figma** for UI design
 
 - 🧑‍💻💼 Looking for an entry-level software engineering role where I can learn and grow, preferably in **Web Development**.
 
 - 🔭 I’m currently working on my [new portfolio site](https://vchu22.vercel.app/), which is a remake of my [original portfolio site](https://vchu22.github.io/). The new site was built with **Next.js** and **Tailwind CSS**, and I added the blog posts and other contents by building a static-site generator😃
 
-- 🌱 I’m currently learning new web dev technologies (Next.js, Svelte, Tailwind CSS), Android development using **Kotlin**, **Unreal Engine**, and many other popular technologies I need to learn, such as **Apache Kafka** and **RabbitMQ**
+- 🌱 I’m currently learning new web dev technologies (Next.js, Svelte, Tailwind CSS), Machine Learning and Data Science topics, and game development using **Unreal Engine**
 
-- ❓ Ask me about anything related to NERD stack and Unity dev
+- ❓ Ask me about anything related to NERD stack and Unity dev.
 
-- ⚡ Fun fact: I love creating arts and 3D models in my spare time when I am not coding  
+- ⚡ Fun fact: I love creating arts and 3D models in my spare time when I am not coding.
   
 
 ## My Skill Set  
