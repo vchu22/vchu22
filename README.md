@@ -1,10 +1,10 @@
-### <div align="center">Hi 👋 I'm Vanessa, a software engineer who knows about full-stack web development, game and XR dev, and mobile dev.</div>  
+### <div align="center">Hi 👋 I'm Vanessa, a software engineer who knows about full-stack web development, game dev, and XR dev.</div>  
 
-- 🤓 I'm proficient in web development using **React.js/Node.js/PostgreSQL**, but also have experience in game and XR development using **Unity/C#/Blender**, Android Development, and **Figma** for UI design
+- 🤓 I'm proficient in web development using **React.js/Node.js/PostgreSQL** but also have experience in game and XR development using **Unity/C#/Blender**. I also have taken a course in Android development using **Kotlin**.
 
 - 🧑‍💻💼 Looking for an entry-level software engineering role where I can learn and grow, preferably in **Web Development**.
 
-- 🔭 I’m currently working on my [new portfolio site](https://vchu22.vercel.app/), which is a remake of my [original portfolio site](https://vchu22.github.io/). The new site was built with **Next.js** and **Tailwind CSS**, and I added the blog posts and other contents by building a static-site generator😃
+- 🔭 I’m currently [rebuiling my portfolio site](https://vchu22.vercel.app/) using **Next.js** and **Tailwind CSS**, which was [originally built with AngularJS](https://vchu22.github.io/). The new site has newly added features, including blog posts added using a static-site generator and filtering content by tags😃
 
 - 🌱 I’m currently learning new web dev technologies (Next.js, Svelte, Tailwind CSS), Machine Learning and Data Science topics, and game development using **Unreal Engine**
 
