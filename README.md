@@ -1,4 +1,4 @@
-### <div align="center">Hi 👋 I'm Vanessa, a software engineer who knows about full-stack web development, game dev, and XR dev.</div>  
+### <div align="center">Hi 👋 I'm Vanessa, a software engineer who knows about full-stack web development, game programming, and XR dev.</div>  
 
 - 🤓 I'm proficient in web development using **React.js/Node.js/PostgreSQL** but also have experience in game and XR development using **Unity/C#/Blender**. I also have taken a course in Android development using **Kotlin**.
 
