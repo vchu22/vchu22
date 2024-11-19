@@ -4,9 +4,7 @@
 
 - 🧑‍💻💼 Looking for an entry-level software engineering role where I can learn and grow, preferably in **Web Development**.
 
-- 🔭 I’m currently [rebuiling my portfolio site](https://vchu22.vercel.app/) using **Next.js** and **Tailwind CSS**, which was [originally built with AngularJS](https://vchu22.github.io/). The new site has newly added features, including blog posts added using a static-site generator and filtering content by tags😃
-
-- 🌱 I’m currently learning new web dev technologies (Next.js, Svelte, Tailwind CSS), Machine Learning and Data Science topics, and game development using **Unreal Engine**
+- 🌱 I’m currently improving on my existing projects, reviewing some essential web dev technologies (Java Spring Boot, Python Flask & Django, Next.js), and learning about Machine Learning, Data Science, and game development using **Unreal Engine**
 
 - ❓ Ask me about anything related to NERD stack and Unity dev.
 
