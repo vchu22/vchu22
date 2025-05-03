@@ -8,8 +8,7 @@
   - Improving on my existing projects, including my [portfolio site](https://vchu22.vercel.app/)
   - Reviewing commonly used web dev technologies (Node.js/React, Next.js, Java Spring Boot, Python Flask & Django)
   - Learning game development using Unreal Engine
-  - Learning about Machine Learning, Data Science, and AI
-  - Learning to integrate AI into web and mobile apps as well as games
+  - Learning about Data Science
 
 - ❓ Ask me about anything related to NERD stack and Unity dev.
 
