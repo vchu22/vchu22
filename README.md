@@ -1,4 +1,4 @@
-### <div align="center">Hi 👋 I'm Vanessa, a software engineer passionate about building interesting things using my knowledge in web, mobile, game dev, and XR.</div>  
+### <div align="center">Hi 👋 I'm Vanessa, a software engineer passionate about building interesting things using my skills in web dev, mobile dev, and game/XR dev.</div>  
 
 - 🤓 I'm proficient in web development using **React.js/Node.js/PostgreSQL** but also have experience in game and XR development using **Unity/C#/Blender**. I also have taken a course in Android development using **Kotlin**.
 
