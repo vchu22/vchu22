@@ -1,6 +1,6 @@
 ### <div align="center">Hi 👋 I'm Vanessa, a software engineer passionate about building interesting things using my skills in web dev, mobile dev, and game/XR dev.</div>  
 
-- 🤓 I'm proficient in web development using **React.js/Node.js/PostgreSQL** but also have experience in game and XR development using **Unity/C#/Blender**. I also have taken a course in Android development using **Kotlin**.
+- 🤓 I'm proficient in web development using **React.js/Node.js/PostgreSQL** but also have experience in game and XR development using **Unity/C#/Blender**. I also have taken a course in Android development using **Kotlin** and am taking a data science fellowship.
 
 - 🧑‍💻💼 Looking for an entry-level software engineering role where I can learn and grow, preferably in **Web Development**.
 
@@ -8,7 +8,7 @@
   - Improving on my existing projects, including my [portfolio site](https://vchu22.vercel.app/)
   - Reviewing commonly used web dev technologies (Node.js/React, Next.js, Java Spring Boot, Python Flask & Django)
   - Learning game development using Unreal Engine
-  - Learning about Data Science
+  - Learning about Data Science & Machine Learning
 
 - ❓ Ask me about anything related to NERD stack and Unity dev.
 
