@@ -82,6 +82,4 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vchu22&show_icons=true&count_private=true&hide_border=true" width="45%" align="left"/></div>  
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vchu22&hide_border=true&layout=compact&langs_count=10" align="center" width="35%"/>  
